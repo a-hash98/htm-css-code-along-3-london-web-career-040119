@@ -22,3 +22,10 @@ figcaption {
   colour: #777;
   text-alight: right
 }
+
+milk-test{
+  font: bold 2.6em 'Elsie Swash Caps', cursive;
+  colour: white;
+  text-shadow: 0 2px
+
+}
